@@ -1,0 +1,13 @@
+@charset "utf-8";
+/* CSS Document */
+
+p   {
+    min-width: 0px;
+    font-weight: bold;
+    font-style: oblique;
+    font-size: xx-large;
+    text-align: center;
+    text-decoration: none;
+    color: #E7ED11;
+    text-shadow: 5px 0px #2D2B2B;
+}
